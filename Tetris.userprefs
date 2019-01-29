@@ -1,0 +1,17 @@
+﻿<Properties StartupConfiguration="{96240DC9-F34D-F6DC-FC55-D250A865D3F5}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Game.cs">
+    <Files>
+      <File FileName="Assets/Scripts/MenuSystem.cs" Line="32" Column="9" />
+      <File FileName="Assets/Scripts/Help.cs" Line="8" Column="3" />
+      <File FileName="Assets/Scripts/Tetromino.cs" Line="16" Column="21" />
+      <File FileName="Assets/Scripts/Game.cs" Line="182" Column="58" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Tetris PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
